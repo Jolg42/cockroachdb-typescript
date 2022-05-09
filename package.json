@@ -1,5 +1,5 @@
 {
-  "name": "cockroachdb-typescript2",
+  "name": "cockroachdb-typescript",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
